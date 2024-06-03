@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehapankhi05" alt="snehapankhi05" /></a> </p>
 
-- 🌱 I’m currently practicing *Python , C , Java script and exploring many more*
+- 🌱 I’m currently practicing *Python , C , Java  and exploring many more*
 
 - 📫 How to reach me *snehapankhi105@gmail.com*
 
