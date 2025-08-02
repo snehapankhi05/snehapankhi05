@@ -1,4 +1,4 @@
-![logo](https://github.com/snehapankhi05/snehapankhi05/blob/main/githubbanner.jpg)
+
 <h1 align="center">Hello 👋, I'm Sneha Pankhi</h1>
 <h3 align="center">A passionate Web developer in India</h3>
 
