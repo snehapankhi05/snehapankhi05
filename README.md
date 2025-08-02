@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Sneha Pankhi</h1>
-<h3 align="center">A passionate Web developer in India</h3>
+<h3 align="center">Pursuing Computer Science and Engineering with AIML</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8e033c50da3bd665628a2dcb2ffe97e0c57c7e93e03c3251d7d40a1ac55f5ec4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966">
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehapankhi05" alt="snehapankhi05" /></a> </p>
 
-- 🌱 I’m currently practicing *Python , C , Java , C++  and exploring many more*
+- 🌱 I’m currently practicing *Python(advance) libraries , C , Java , C++ , HTML, CSS , JavaScript and exploring many more*
 
-- 📫 How to reach me *snehapankhi105@gmail.com*
+- 📫 How to reach me *techsneha19@gmail.com*
 
 - ⚡ Fun fact *I am an extrovert 🥲*
 
