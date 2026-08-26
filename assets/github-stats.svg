@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="700"
+     height="210"
+     viewBox="0 0 700 210">
+
+  <rect width="700"
+        height="210"
+        rx="16"
+        fill="#0d1117"/>
+
+  <text x="40"
+        y="45"
+        fill="#ffffff"
+        font-size="25"
+        font-family="Arial"
+        font-weight="bold">
+    GitHub Statistics
+  </text>
+
+  <text x="40"
+        y="90"
+        fill="#8b949e"
+        font-size="14"
+        font-family="Arial">
+    Public Repositories
+  </text>
+
+  <text x="40"
+        y="122"
+        fill="#ffffff"
+        font-size="25"
+        font-family="Arial"
+        font-weight="bold">
+    29
+  </text>
+
+  <text x="270"
+        y="90"
+        fill="#8b949e"
+        font-size="14"
+        font-family="Arial">
+    Followers
+  </text>
+
+  <text x="270"
+        y="122"
+        fill="#ffffff"
+        font-size="25"
+        font-family="Arial"
+        font-weight="bold">
+    2
+  </text>
+
+  <text x="470"
+        y="90"
+        fill="#8b949e"
+        font-size="14"
+        font-family="Arial">
+    Following
+  </text>
+
+  <text x="470"
+        y="122"
+        fill="#ffffff"
+        font-size="25"
+        font-family="Arial"
+        font-weight="bold">
+    5
+  </text>
+
+  <text x="40"
+        y="170"
+        fill="#7C3AED"
+        font-size="13"
+        font-family="Arial">
+    Automatically updated with GitHub Actions
+  </text>
+
+</svg>
