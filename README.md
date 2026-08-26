@@ -1,227 +1,199 @@
 
+
 <div align="center">
 
-# Hi, I'm Sneha Pankhi 👋
+# 👋 Hi, I'm Sneha Pankhi
 
-### AI/ML Engineer • GenAI Developer • AI Application Builder
+### `AI/ML Engineer in the making • Exploring Generative AI & Agentic AI`
 
-Building practical AI systems with **LLMs, RAG, NLP, and intelligent automation.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+AI-powered+projects;Exploring+Agentic+AI+%26+Generative+AI;Turning+ideas+into+real-world+systems;Learning+by+building+%F0%9F%9A%80">
 
 <p>
   <a href="https://github.com/snehapankhi05">
-    <img src="https://img.shields.io/badge/GitHub-snehapankhi05-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/sneha-pankhi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:techsneha19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=snehapankhi05&color=7C3AED&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## About Me
+## `~/` About Me
 
-I'm a **B.E. Computer Science Engineering (AI & ML)** student focused on building real-world AI applications rather than only experimenting with models.
+I'm **Sneha Pankhi**, a final-year **B.Tech Computer Science & Engineering (AIML)** student who enjoys turning ideas into working software.
 
-My current interests are:
+My current focus is **Generative AI and Agentic AI** — especially understanding how AI systems can use tools, retrieve knowledge, reason over information, and work through multi-step tasks instead of simply generating a response.
 
-- 🤖 Generative AI & LLM Applications
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🧠 NLP & Machine Learning
-- ⚙️ AI Agents & Automation
-- 🚀 AI-powered Backend Systems
-- 📄 Intelligent Document Processing
+* 🤖 Currently exploring **Agentic AI, LLM applications & AI automation**
+* 🧠 Interested in **Generative AI, RAG, NLP and intelligent systems**
+* 🛠️ Learning by building **real-world AI projects**, not just tutorials
+* 🚀 Exploring how multi-agent and tool-using systems can solve practical problems
+* 📚 Strengthening my foundations in **Python, DSA and software development**
+* 🎯 Currently in **Semester 7**, preparing to turn my learning into stronger real-world projects
 
-I enjoy turning AI concepts into **usable products with APIs, databases, retrieval pipelines, and practical interfaces.**
+> **My approach:** Learn → Build → Break → Understand → Improve.
 
 ---
 
-## What I Build
+## 🧰 Tech Stack
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=8">
+</p>
+
+`Generative AI` · `LLMs` · `Agentic AI` · `RAG` · `NLP` · `Machine Learning`
+
+### AI Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode&perline=8">
+</p>
+
+`LangChain` · `LangGraph` · `Vector Databases` · `APIs` · `AI Agents` · `Prompt Engineering`
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,git,github&perline=9">
+</p>
+
+---
+
+## 🧠 What I'm Exploring
 
 ```text
-LLM Applications
-      │
-      ├── RAG Systems
-      │     ├── Document Retrieval
-      │     ├── Vector Search
-      │     └── Hybrid Search
-      │
-      ├── AI Automation
-      │     ├── Agents
-      │     ├── Workflow Automation
-      │     └── Intelligent Processing
-      │
-      └── AI Products
-            ├── FastAPI Backends
-            ├── Streamlit Interfaces
-            └── Database Integration
-````
-
----
-
-## Featured Projects
-
-### 🧠 HireAlign — AI Resume & Job Matching
-
-An AI-powered system that analyzes a resume against a job description and generates an intelligent compatibility analysis.
-
-**Highlights**
-
-* Resume & JD processing
-* Semantic similarity
-* AI-based skill analysis
-* Match scoring with explanations
-* Vector database integration
-
-**Stack:** `Python` `FastAPI` `LLM` `ChromaDB` `Hugging Face` `Groq`
-
----
-
-### 📚 YouTube RAG Chatbot
-
-A conversational AI system that allows users to ask questions about YouTube video content.
-
-**Highlights**
-
-* YouTube transcript extraction
-* Semantic document retrieval
-* BM25 keyword retrieval
-* FAISS vector search
-* Reciprocal Rank Fusion (RRF)
-* LLM-powered responses
-
-**Stack:** `Python` `LangChain` `FAISS` `BM25` `Hugging Face` `Groq` `Streamlit`
-
----
-
-### 📄 PDF AI Assistant
-
-An intelligent document assistant designed to interact with uploaded PDF documents using retrieval-augmented generation.
-
-**Highlights**
-
-* PDF ingestion & parsing
-* Text chunking
-* Embedding generation
-* Vector search
-* Context-aware question answering
-* Conversational memory
-
-**Stack:** `Python` `LangChain` `ChromaDB` `Hugging Face` `Groq` `Streamlit`
-
----
-
-### 🛡️ SafeHer — Women Safety Application
-
-An Android application focused on improving personal safety through emergency communication and location-based features.
-
-**Highlights**
-
-* SOS emergency alerts
-* Emergency contacts
-* Live location features
-* Safety zones & geofencing
-* Guardian–user connection
-* Google Maps integration
-* Firebase backend
-
-**Stack:** `Kotlin` `Jetpack Compose` `Firebase` `Google Maps`
-
----
-
-## Tech Stack
-
-### AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat"/>
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=flat"/>
-<img src="https://img.shields.io/badge/LLMs-111111?style=flat"/>
-</p>
-
-### GenAI / RAG
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat"/>
-<img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat"/>
-</p>
-
-### Backend & Development
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-000000?style=flat"/>
-<img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector_DBs-5E35B1?style=flat"/>
-</p>
-
----
-
-## Currently Exploring
-
-```text
-AI Agents
-   ↓
-Tool Calling
-   ↓
-Multi-Agent Workflows
-   ↓
-LLM-powered Automation
-   ↓
-Production AI Applications
+Generative AI
+     │
+     ├── LLM Applications
+     ├── RAG Systems
+     ├── AI Assistants
+     │
+     └── Agentic AI
+           │
+           ├── Tool Calling
+           ├── Memory
+           ├── Planning
+           ├── Multi-Agent Systems
+           └── AI Automation
 ```
 
-I'm particularly interested in moving from **RAG-based applications → agentic AI systems → production-ready AI automation.**
+I'm particularly interested in the shift from:
+
+**"AI that answers" → "AI that can actually do."**
 
 ---
 
-## GitHub Stats
+## 🚀 Projects
+
+### 🤝 HireAlign
+
+An AI-focused project designed around improving the hiring / candidate alignment process.
+
+**Focus:** AI · Automation · Real-world problem solving
+
+---
+
+### 🎬 YouTube AI Assistant
+
+An AI application that works with YouTube content to make long-form information easier to understand and interact with.
+
+**Focus:** LLMs · NLP · Information Retrieval
+
+---
+
+### 📄 PDF Assistant
+
+An AI-powered document assistant designed to let users interact with PDF content through natural language.
+
+**Focus:** RAG · LLMs · Document AI
+
+---
+
+### 🤖 Agentic AI Chatbot
+
+A conversational AI system built with **LangGraph**, with a database-backed architecture for handling conversations and persistent information.
+
+**Focus:** LangGraph · Agentic AI · LLMs · Database Integration
+
+---
+
+### 🔬 Coming Soon — AI Research Agent
+
+> Exploring a new project around **Agentic AI for research workflows**.
+
+The goal is to move beyond a simple chatbot and experiment with an agent that can **break down a research task, gather information, reason over it, and produce a structured result**.
+
+**Status:** `Exploring → Building`
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=snehapankhi05&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapankhi05&layout=compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehapankhi05&theme=github-compact&hide_border=true">
 
 </div>
 
 ---
 
-## Let's Connect
-
-I'm interested in opportunities involving:
-
-**AI/ML • Generative AI • LLM Applications • RAG • AI Agents • AI Automation**
-
-If you're building something interesting with AI, feel free to connect.
+## 💻 Coding Profiles
 
 <p align="center">
-  <a href="mailto:techsneha19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://leetcode.com/u/Snehapankhi195/">
+    <img src="https://img.shields.io/badge/LeetCode-Snehapankhi195-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
 </p>
 
-<div align="center">
+---
 
-### Building AI systems that solve real problems. 🚀
+## 🌱 Currently Learning
 
-</div>
+```text
+[████████████████░░░░] Agentic AI
+[███████████████░░░░░] Generative AI
+[██████████████░░░░░░] RAG & LLM Applications
+[█████████████░░░░░░░] LangGraph / AI Workflows
+[████████████░░░░░░░░] DSA & Problem Solving
 ```
 
+The goal isn't to know every framework.
+
+It's to understand **why a system works, where it fails, and how to build something useful with it.**
+
+---
+
+## ⚡ A Little About Me
+
+* 🧩 I like understanding **how things work**, not just making them run.
+* 🚀 I learn fastest when I'm working on an actual project.
+* 🤖 Currently going deeper into the world of **Agentic AI**.
+* 🛠️ My favorite kind of project is one where I start with *"Can this actually be built?"* and end with a working prototype.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in AI, Agentic Systems, or building something interesting?**
+
+<a href="https://www.linkedin.com/in/sneha-pankhi/">LinkedIn</a>
+  •   <a href="https://github.com/snehapankhi05">GitHub</a>
+  •   <a href="mailto:techsneha19@gmail.com">Email</a>
+
+<br><br>
+
+*"Build things that make you better at building things."*
+
+</div>
