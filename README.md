@@ -252,25 +252,6 @@ I'm interested in understanding how these pieces connect to turn an idea into a 
 
 ---
 
-## 🧠 Most Used Languages
-
-<p align="center">
-
-<img src="./assets/metrics.svg" alt="Most used programming languages">
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="./assets/trophy.svg" alt="GitHub achievements" width="100%">
-
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
